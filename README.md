@@ -22,3 +22,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 #### Step 3: Segemented Univariate Analysis
 #### Step 4: Bivaraiate/Multivariate Analysis
 #### Step 5: Results   
+
+Contributors:
+* [Prashant Dahiya](https://github.com/Prashant-Dahiya/)
+* [Yatharth Tripathi]()
