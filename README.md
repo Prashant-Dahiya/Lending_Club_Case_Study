@@ -17,21 +17,9 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 ```
 
-#### Step 1: Data Cleaning 1  
+#### Step 1: Data Cleaning 
 #### Step 2: Univariate Analysis
 #### Step 3: Segemented Univariate Analysis
 #### Step 4: Bivaraiate/Multivariate Analysis
 #### Step 5: Results   
 
-
-### Contributors
-- Anushka Paradkar
-- Ritesh Vesalapu
-
-
-
-
-
-
-
-##### Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
