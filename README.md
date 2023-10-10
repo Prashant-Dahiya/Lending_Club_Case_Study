@@ -26,4 +26,4 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 Contributers:
 * [Prashant Dahiya](https://github.com/Prashant-Dahiya/)
-* [Yatharth Tripathi]()
+* [Yatharth Tripathi](https://github.com/YatharthTripathi/)
